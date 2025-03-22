@@ -16,7 +16,7 @@ Lorsqu'un joueur rejoint, un panel sera affiché lui demandant s'il veut prendre
 # :pushpin: ***Prérequis***
 ****[MODKIT & AAMENU](https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/tag/v2.1.2)**
 
-# :mobile_phone: ***Contact***
+# :computer: ***Contact***
 Si vous avez un *problème*, des *questions* ou des *suggestions*, je suis disponible en **MP** (*cole100st*).
 
 ***Bon jeu***
